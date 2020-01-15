@@ -12,7 +12,7 @@
     * [设置菜单](#设置菜单)
     * [配置测试接口](#配置测试接口)
     * [创建http请求](#创建http请求)
-    * [调用http请求](#调用http请求)
+    * [调用http请求](#调用http请求)
     * [使用vuex(可选)](#使用vuex)
       * [触发action](#触发action)
       * [创建store](#创建store)
@@ -36,7 +36,9 @@
 ## <a name="介绍">介绍</a>
 基于 vue & vuex & vue-router & axios & element-ui 的微前端子应用脚手架工程模板，可用于入门脚手架或者 SingleSPA 子应用脚手架使用  
 
-![整体架构图](http://git.michaelxu.cn/classroom/vue/portal-childapp-vue/raw/develop/template/src/assets/images/ArchitectureDiagram.png)
+[进入独立应用](http://child.portal.michaelxu.cn/REACTCHILDAPP/)  
+
+[进入Portal整合应用](http://portal.michaelxu.cn/)
 
 ## <a name="程序目录">程序目录</a>
 ```
