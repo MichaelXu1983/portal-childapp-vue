@@ -1,0 +1,22 @@
+{
+  "root": true,
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "plugin:vue/essential",
+    "standard"
+  ],
+  "plugins": [
+    "vue",
+    "portal-childapp-bound"
+  ],
+  "rules": {
+    "no-new": "off",
+    "portal-childapp-bound/no-global-declaration": 2,
+    "portal-childapp-bound/no-write-cookie": 2
+  }
+}
