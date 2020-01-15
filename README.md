@@ -38,7 +38,11 @@
 
 [进入独立应用](http://child.portal.michaelxu.cn/VUECHILDAPP/#/VUECHILDAPP/home/index)  
 
-[进入Portal整合应用](http://portal.michaelxu.cn/)
+[进入 Portal 整合门户应用](http://portal.michaelxu.cn/)
+
+[进入 Portal 应用注册中心](http://register.portal.michaelxu.cn/#/manager)
+
+[进入 Portal 应用开发网站](http://guide.portal.michaelxu.cn/#/zh-CN)
 
 ## <a name="程序目录">程序目录</a>
 ```
