@@ -36,7 +36,7 @@
 ## <a name="介绍">介绍</a>
 基于 vue & vuex & vue-router & axios & element-ui 的微前端子应用脚手架工程模板，可用于入门脚手架或者 SingleSPA 子应用脚手架使用  
 
-[进入独立应用](http://child.portal.michaelxu.cn/REACTCHILDAPP/)  
+[进入独立应用](http://child.portal.michaelxu.cn/VUECHILDAPP/#/VUECHILDAPP/home/index)  
 
 [进入Portal整合应用](http://portal.michaelxu.cn/)
 
