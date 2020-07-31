@@ -36,13 +36,13 @@
 ## <a name="介绍">介绍</a>
 基于 vue & vuex & vue-router & axios & element-ui 的微前端子应用脚手架工程模板  
 
-[进入独立应用](http://child.portal.michaelxu.cn/VUECHILDAPP/#/VUECHILDAPP/home/index)  
+[进入独立应用](http://child.portal.b-platforms.com/REACTCHILDAPP/)  
 
-[进入 Portal 整合门户应用](http://portal.michaelxu.cn/)
+[进入 Portal 整合门户应用](http://portal.b-platforms.com/)
 
-[进入 Portal 应用注册中心](http://register.portal.michaelxu.cn/#/manager)
+[进入 Portal 应用注册中心](http://register.portal.b-platforms.com/)
 
-[进入 Portal 应用开发网站](http://guide.portal.michaelxu.cn/#/zh-CN)
+[进入 Portal 应用开发网站](http://guide.portal.b-platforms.com/)
 
 ## <a name="程序目录">程序目录</a>
 ```
